@@ -43,120 +43,122 @@
 ## Лемма о вложенных и стягивающихся отрезках.
 ![1 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/1%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ## Определение предела последовательности.
-![[2 вопрос.png]]
+![2 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/2%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ## Определение расходящейся последовательности. 
 #### `Числовая последовательность не имеющая предела называется расходящейся.`
 
-![[3 вопрос.png]]
+![3 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/3%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ## Единственность предела.
-![[4 вопрос.png]]
+![4 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/4%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Второй замечательный предел. 
-![[5 вопрос.png]]
+![5 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/5%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Теорема о сжатой последовательности (о двух милиционерах).
-![[6 вопрос.png]]
+![6 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/6%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Фундаментальная последовательность. Критерий Коши.
-![[7 вопрос.png]]
+![7 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/7%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Точка сгущения. Окрестности точки и бесконечности
-![[8 вопрос 1.png]]
-![[8 вопрос 2.png]]
+![8 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/8%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![8 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/8%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 ## Определение предела функции по Коши. 
-![[9 вопрос.png]]
+![9 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/9%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Определение предела функции по Гейне.
-![[10 вопрос.png]]
+![10 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/10%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Определение бесконечного предела функции.
-![[колок матан/img/11 вопрос 1.png]]
-![[колок матан/img/11 вопрос 2.png]]
+![11 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/11%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![11 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/11%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 ## Определение предела функции в бесконечности.
-![[12 вопрос 1.png]]
-![[12 вопрос 2.png]]
+![12 вопрос 1.png]()
+![12 вопрос 2.png]()
 ## Односторонние пределы.
-![[13 вопрос.png]]
+![13 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/13%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Теорема о сжатой функции.
 
 
 ## Пределы монотонной функции.
-![[15 вопрос 1.png]]
-![[15 вопрос 2.png]]
+![15 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/15%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![15 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/15%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 
 ## Бесконечно малые функции. Критерий существования предела.
-![[16 вопрос 1.png]]
-![[16 вопрос 2.png]]
+![16 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/16%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![16 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/16%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 
 ## Критерий Коши.
-![[17 вопрос.png]]
+![17 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/17%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## 1-й замечательный предел.
-![[18 вопрос.png]]
+![18 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/18%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## 2-й замечательный предел (для функций).
-![[19 вопрос.png]]
+![19 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/19%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Предел композиции функций.
-![[20 вопрос.png]]
+![20 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/20%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ## Сравнение функций. Эквивалентные функции.
-![[21 вопрос.png]]
+![21 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/21%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ## Сравнение функций. О-большое и о-малое. 
-![[22 вопрос 1.png]]![[22 вопрос 2.png]]![[22 вопрос 3.png]]
+![22 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/22%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![22 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/22%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
+![22 вопрос 3.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/22%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%203.png)
 
 ## Определения непрерывности функции в точке. 
-![[23 вопрос 1.png]]
-![[21 вопрос 1.png]]
-![[21 вопрос 2.png]]
+![23 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/23%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![23 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/23%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
+![23 вопрос 3.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/23%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%203.png)
 ## Классификация точек разрыва. 
-![[24 вопрос.png]]
+![24 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/24%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Первая теорема Вейерштрасса о функции, непрерывной на отрезке.
-![[25 вопрос.png]]
+![25 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/25%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Вторая теорема Вейерштрасса о функции, непрерывной на отрезке.
-![[26 вопрос.png]]
+![26 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/26%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ## Первая теорема Коши о функции, непрерывной на отрезке.
-![[27 вопрос.png]]
+![27 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/27%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Вторая теорема Коши о функции, непрерывной на отрезке.
-![[28 вопрос.png]]
+![28 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/28%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ## Определение обратной функции. Теорема о непрерывности обратной функции.
-![[29 вопрос 1.png]]
-![[29 вопрос 2.png]]
+![29 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/29%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![29 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/29%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 ## Определение дифференциала и дифференцируемости функции. 
-![[30 вопрос 2.png]]![[30 вопрос 1.png]]
+![30 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/30%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![30 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/30%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 
 ## Определение производной.
-![[31 вопрос.png]]
+![31 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/31%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ## Критерий дифференцируемости функции в точке.
-![[32 вопрос.png]]
+![32 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/32%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 ## Свойства дифференцируемых функций.
-![[33 вопрос 1.png]]
-![[33 вопрос 2.png]]
+![33 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/33%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![33 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/33%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 ## Таблица производных.
-![[34 вопрос.png]]
+![34 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/34%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Производная сложной и обратной функции.
-![[35 вопрос 1.png]]
-![[35 вопрос 2.png]]
+![35 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/35%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![35 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/35%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 ## Теорема Ферма о функции, дифференцируемой на отрезке.
-![[36 вопрос.png]]
+![36 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/36%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Теорема Ролля о среднем.
-![[37 вопрос.png]]
+![37 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/37%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Теорема Лагранжа о среднем.
-![[38 вопрос.png]]
+![38 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/38%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Теорема Коши о среднем.
-![[39 вопрос.png]]
+![39 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/39%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
 ## Теорема Лопиталя.
-![[40 вопрос 1.png]]![[40 вопрос 2.png]]
+![40 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/40%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![40 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/40%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 
 Не сто процентов, но вроде тоже относится к этому
-![[40 вопрос (3).png]]
-
-32 страница
+![40 вопрос (3).png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/40%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20(3).png)
