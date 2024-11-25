@@ -73,8 +73,8 @@
 ![11 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/11%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
 ![11 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/11%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 ## Определение предела функции в бесконечности.
-![12 вопрос 1.png]()
-![12 вопрос 2.png]()
+![12 вопрос 1.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/12%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%201.png)
+![12 вопрос 2.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/12%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%202.png)
 ## Односторонние пределы.
 ![13 вопрос.png](https://github.com/Z1mniy/MathAnalyzeSE28/blob/master/img/13%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81.png)
 
